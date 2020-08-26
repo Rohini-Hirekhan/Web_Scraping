@@ -9,7 +9,7 @@
 
 import requests
 from bs4 import BeautifulSoup
-url = "https://codewithharry.com"
+url = "E:\covoid_notify\iconico.ico"
 
 # Step 1: Get the HTML
 r = requests.get(url)
